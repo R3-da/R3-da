@@ -6,7 +6,7 @@
 <div align="center">
   
   [![Gmail Badge](http://img.shields.io/badge/-haddan.reda.net@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red&link=mailto:haddan.reda.net@gmail.com)](mailto:haddan.reda.net@gmail.com)
-  [![Linkedin Badge](http://img.shields.io/badge/-Connect_with_R3-da-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/reda-haddan-7b3891209/)](https://www.linkedin.com/in/reda-haddan-7b3891209/)
+  [![Linkedin Badge](http://img.shields.io/badge/-Connect_with_R3da-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/reda-haddan-7b3891209/)](https://www.linkedin.com/in/reda-haddan-7b3891209/)
   [![Twitter Badge](http://img.shields.io/badge/-follow_me_@RedaHaddan-white?style=flat-square&logo=Twitter&logoColor=blue&link=https://twitter.com/RedaHaddan)](https://twitter.com/RedaHaddan)
   
 </div>
